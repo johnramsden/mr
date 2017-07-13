@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/obmenu-generator.git]
+checkout = vcsh clone git@github.com:johnramsden/obmenu-generator.git obmenu-generator

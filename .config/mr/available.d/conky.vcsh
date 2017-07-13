@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/conky.git]
+checkout = vcsh clone -b switchblade git@github.com:johnramsden/conky.git conky

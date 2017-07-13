@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/mr.git]
-checkout = vcsh clone git@github.com:johnramsden/mr.git mr
+checkout = vcsh clone -b switchblade git@github.com:johnramsden/mr.git mr
