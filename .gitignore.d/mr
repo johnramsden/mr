@@ -43,4 +43,5 @@
 !/.config/mr/README.md
 !/.gitignore.d
 !/.gitignore.d/mr
+!/.gitignore.d/oh-my-zsh
 !/.mrconfig
