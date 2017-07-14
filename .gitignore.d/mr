@@ -21,4 +21,7 @@
 !/.config/mr/config.d/openbox.vcsh
 !/.config/mr/config.d/ssh.vcsh
 !/.config/mr/config.d/tint2.vcsh
+!/.config/mr/README.md
+!/.gitignore.d
+!/.gitignore.d/mr
 !/.mrconfig
