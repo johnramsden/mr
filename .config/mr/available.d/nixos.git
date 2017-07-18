@@ -1,0 +1,2 @@
+[/etc/nixos]
+checkout = git clone --recursive 'git@github.com:johnramsden/nixos.git' 'nixos'
