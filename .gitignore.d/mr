@@ -19,7 +19,8 @@
 !/.config/mr/dotfiles/gnupg
 !/.config/mr/dotfiles/nixos
 !/.config/mr/dotfiles/oh-my-zsh
-!/.config/mr/dotfiles/scripts
+!/.config/mr/dotfiles/scripts/bin
+!/.config/mr/dotfiles/scripts/scripts
 !/.config/mr/dotfiles/ssh
 !/.gitignore.d/conky
 !/.gitignore.d/git
