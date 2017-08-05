@@ -1,2 +1,0 @@
-[$HOME/.config/vcsh/repo.d/tint2.git]
-checkout = vcsh clone git@github.com:johnramsden/tint2.git tint2

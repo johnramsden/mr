@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/scripts.git]
-checkout = vcsh clone -b switchblade git@github.com:johnramsden/scripts.git scripts
+checkout = vcsh clone -b chin git@github.com:johnramsden/scripts.git scripts
