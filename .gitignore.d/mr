@@ -34,6 +34,8 @@
 !/.config/mr/dotfiles/scripts
 !/.config/mr/dotfiles/scripts/bin
 !/.config/mr/dotfiles/scripts/scripts
+!/.config/mr/dotfiles/services
+!/.config/mr/dotfiles/services/systemd
 !/.config/mr/dotfiles/ssh
 !/.config/mr/README.md
 !/.gitignore.d
