@@ -12,6 +12,7 @@
 !/.config/mr/available.d/services.vcsh
 !/.config/mr/available.d/ssh.vcsh
 !/.config/mr/available.d/zsh-autosuggestions.git
+!/.config/mr/available.d/zsh-encrypted-history.git
 !/.config/mr/config.d
 !/.config/mr/config.d/conky.vcsh
 !/.config/mr/config.d/git.vcsh
@@ -23,6 +24,7 @@
 !/.config/mr/config.d/services.vcsh
 !/.config/mr/config.d/ssh.vcsh
 !/.config/mr/config.d/zsh-autosuggestions.git
+!/.config/mr/config.d/zsh-encrypted-history.git
 !/.config/mr/dotfiles
 !/.config/mr/dotfiles/conky
 !/.config/mr/dotfiles/git
