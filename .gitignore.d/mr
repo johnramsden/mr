@@ -5,6 +5,7 @@
 !/.config/mr/available.d/conky.vcsh
 !/.config/mr/available.d/git.vcsh
 !/.config/mr/available.d/gnupg.vcsh
+!/.config/mr/available.d/history-sync.git
 !/.config/mr/available.d/mr.vcsh
 !/.config/mr/available.d/oh-my-zsh.vcsh
 !/.config/mr/available.d/scripts.vcsh
@@ -15,6 +16,7 @@
 !/.config/mr/config.d/conky.vcsh
 !/.config/mr/config.d/git.vcsh
 !/.config/mr/config.d/gnupg.vcsh
+!/.config/mr/config.d/history-sync.git
 !/.config/mr/config.d/mr.vcsh
 !/.config/mr/config.d/oh-my-zsh.vcsh
 !/.config/mr/config.d/scripts.vcsh
