@@ -1,2 +1,2 @@
 [.config/oh-my-zsh/custom/plugins/history-sync]
-checkout = git clone 'git@github.com:wulfgarpro/history-sync.git' 'history-sync'
+checkout = git clone 'git@github.com:johnramsden/history-sync.git' 'history-sync'
