@@ -1,2 +1,0 @@
-[.config/oh-my-zsh/zsh-encrypted-history]
-checkout = git clone 'git@github.com:johnramsden/zsh-encrypted-history.git' 'zsh-encrypted-history'
