@@ -1,0 +1,2 @@
+[.config/oh-my-zsh/custom/plugins/histsync]
+checkout = git clone 'git@github.com:johnramsden/zsh-histsync.git' 'zsh-histsync'
