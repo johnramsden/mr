@@ -1,0 +1,2 @@
+[.config/oh-my-zsh/custom/zsh-history]
+checkout = git clone 'git@github.com:johnramsden/zsh-history.git' 'zsh-history'
