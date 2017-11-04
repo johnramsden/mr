@@ -1,2 +1,2 @@
 [$HOME/.config/vcsh/repo.d/conky.git]
-checkout = vcsh clone git@github.com:johnramsden/conky.git conky
+checkout = vcsh clone -b $(hostname) git@github.com:johnramsden/conky.git conky
