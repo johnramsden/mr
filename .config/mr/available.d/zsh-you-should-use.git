@@ -1,0 +1,2 @@
+[.config/oh-my-zsh/custom/plugins/you-should-use]
+checkout = git clone 'git@github.com:MichaelAquilina/zsh-you-should-use'
