@@ -1,0 +1,2 @@
+[.local/share/oh-my-zsh]
+checkout = git clone --config transfer.fsckobjects=false --config receive.fsckobjects=false --config fetch.fsckobjects=false git://github.com/robbyrussell/oh-my-zsh.git 'oh-my-zsh'
