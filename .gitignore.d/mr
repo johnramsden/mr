@@ -1,5 +1,4 @@
 *
-!/.config
 !/.config/mr
 !/.config/mr/available.d
 !/.config/mr/available.d/conky.vcsh
