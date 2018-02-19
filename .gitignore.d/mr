@@ -1,4 +1,5 @@
 *
+!/.config
 !/.config/mr
 !/.config/mr/available.d
 !/.config/mr/available.d/conky.vcsh
@@ -15,6 +16,7 @@
 !/.config/mr/available.d/zsh-history.git
 !/.config/mr/available.d/zsh-histsync.git
 !/.config/mr/available.d/zsh-you-should-use.git
+!/.config/mr/available.d/zsh-zsnapac.git
 !/.config/mr/config.d
 !/.config/mr/config.d/conky.vcsh
 !/.config/mr/config.d/git-good-commit.git
@@ -30,6 +32,7 @@
 !/.config/mr/config.d/zsh-history.git
 !/.config/mr/config.d/zsh-histsync.git
 !/.config/mr/config.d/zsh-you-should-use.git
+!/.config/mr/config.d/zsh-zsnapac.git
 !/.config/mr/dotfiles
 !/.config/mr/dotfiles/conky
 !/.config/mr/dotfiles/git

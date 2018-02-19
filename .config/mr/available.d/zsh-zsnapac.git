@@ -1,0 +1,2 @@
+[.config/oh-my-zsh/custom/plugins/zsnapac]
+checkout = git clone 'git@github.com:johnramsden/zsh-zsnapac.git' 'zsnapac'
